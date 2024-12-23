@@ -1,0 +1,5 @@
+reporter: mochawesome
+reporterOptions:
+  reportDir: mochawesome-report
+  reportFilename: index
+  quiet: true
